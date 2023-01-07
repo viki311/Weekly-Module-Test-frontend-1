@@ -1,0 +1,31 @@
+.Rectangle{
+    box-sizing: border-box;
+
+/* position: absolute; */
+width: 1000px;
+height: 200px;
+left: 38px;
+top: 47px;
+border: 2px;
+
+border: 2px solid #000000;  
+}
+.description{
+    
+    width: 800px;
+    font:inter;
+    size: 40px;
+    
+    
+}
+.dogpic{
+    
+width: 500px;
+    height:400px;
+    left: 30px;
+    top: 200px;
+
+}
+.title{
+    left:20px;
+}
